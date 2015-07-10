@@ -11,3 +11,6 @@ report
 
 # SublimeText project files
 *.sublime-project
+
+# Exclude css files
+*.css
