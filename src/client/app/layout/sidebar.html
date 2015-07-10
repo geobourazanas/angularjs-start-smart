@@ -1,0 +1,14 @@
+﻿<ss-sidebar when-done-animating="vm.sidebarReady()" ng-if="!vm.hideSidebar">
+    <div class="sidebar-filler"></div>
+    <div class="sidebar-dropdown"><a href="#">Menu</a></div>
+    <div class="sidebar-inner">
+        <div class="sidebar-widget"></div>
+        <ul class="navi">
+            <li id="{{::r.name}}" class="nligssblue fade-selection-animation" ng-class="{current:vm.isCurrent(r),category:r.settings.category}" ng-repeat="r in vm.navRoutes">
+                <span ng-if="r.settings.category" ng-bind="::r.settings.category"></span>   
+                <a ui-sref="{{r.name}}"
+                   ng-bind-html="::r.settings.content"></a>
+            </li>
+        </ul>
+    </div>
+</ss-sidebar>

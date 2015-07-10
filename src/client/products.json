@@ -1,0 +1,169 @@
+[{
+    "id": 1,
+    "name": "Tomorrow is today, Red printed scarf",
+    "type": "physical",
+    "sku": "",
+    "description": "Densely pack your descriptions with useful information and watch products fly off the shelf.",
+    "price": "89.0000",
+    "is_visible": true,
+    "is_featured": true,
+    "date_created": "Fri, 21 Sep 2012 02:31:01 +0000",
+    "brand_id": 17,
+    "categories": [
+        2
+    ],
+    "date_modified": "Mon, 24 Sep 2012 01:34:57 +0000",
+    "condition": "New",
+    "is_condition_shown": false,
+    "order_quantity_minimum": 0,
+    "order_quantity_maximum": 0,
+    "custom_url": "/tomorrow-is-today-red-printed-scarf/",
+    "primary_image": {
+        "id": 247,
+        "zoom_url": "https://cdn.url.path/bcapp/et7xe3pz/products/32/images/247/in_123__14581.1393831046.1280.1280.jpg?c=1",
+        "thumbnail_url": "https://cdn.url.path/bcapp/et7xe3pz/products/32/images/247/in_123__14581.1393831046.220.290.jpg?c=1",
+        "standard_url": "https://cdn.url.path/bcapp/et7xe3pz/products/32/images/247/in_123__14581.1393831046.386.513.jpg?c=1",
+        "tiny_url": "https://cdn.url.path/bcapp/et7xe3pz/products/32/images/247/in_123__14581.1393831046.44.58.jpg?c=1"
+    },
+    "availability": "available"
+}, {
+    "id": 2,
+    "name": "Anna, multi-colored bangles",
+    "type": "physical",
+    "sku": "",
+    "description": "One of the best things you can do to make your store successful is invest some time in writing great product descriptions.",
+    "price": "59.0000",
+    "is_visible": true,
+    "is_featured": true,
+    "date_created": "Fri, 21 Sep 2012 02:31:01 +0000",
+    "brand_id": 17,
+    "categories": [
+        1, 2
+    ],
+    "date_modified": "Fri, 21 Sep 2012 02:46:41 +0000",
+    "condition": "New",
+    "is_condition_shown": false,
+    "order_quantity_minimum": 0,
+    "order_quantity_maximum": 0,
+    "custom_url": "/tomorrow-is-today-red-printed-scarf/",
+    "primary_image": {
+        "id": 247,
+        "zoom_url": "https://cdn.url.path/bcapp/et7xe3pz/products/32/images/247/in_123__14581.1393831046.1280.1280.jpg?c=1",
+        "thumbnail_url": "https://cdn.url.path/bcapp/et7xe3pz/products/32/images/247/in_123__14581.1393831046.220.290.jpg?c=1",
+        "standard_url": "https://cdn.url.path/bcapp/et7xe3pz/products/32/images/247/in_123__14581.1393831046.386.513.jpg?c=1",
+        "tiny_url": "https://cdn.url.path/bcapp/et7xe3pz/products/32/images/247/in_123__14581.1393831046.44.58.jpg?c=1"
+    },
+    "availability": "available"
+}, {
+    "id": 3,
+    "name": "Brown purple violet leather bag",
+    "type": "physical",
+    "sku": "",
+    "description": "Densely pack your descriptions with useful information and watch products fly off the shelf.",
+    "price": "89.0000",
+    "is_visible": true,
+    "is_featured": true,
+    "date_created": "Fri, 21 Sep 2012 02:31:01 +0000",
+    "brand_id": 17,
+    "categories": [
+        2, 3
+    ],
+    "date_modified": "Mon, 24 Sep 2012 01:34:57 +0000",
+    "condition": "New",
+    "is_condition_shown": false,
+    "order_quantity_minimum": 0,
+    "order_quantity_maximum": 0,
+    "custom_url": "/tomorrow-is-today-red-printed-scarf/",
+    "primary_image": {
+        "id": 247,
+        "zoom_url": "https://cdn.url.path/bcapp/et7xe3pz/products/32/images/247/in_123__14581.1393831046.1280.1280.jpg?c=1",
+        "thumbnail_url": "https://cdn.url.path/bcapp/et7xe3pz/products/32/images/247/in_123__14581.1393831046.220.290.jpg?c=1",
+        "standard_url": "https://cdn.url.path/bcapp/et7xe3pz/products/32/images/247/in_123__14581.1393831046.386.513.jpg?c=1",
+        "tiny_url": "https://cdn.url.path/bcapp/et7xe3pz/products/32/images/247/in_123__14581.1393831046.44.58.jpg?c=1"
+    },
+    "availability": "available"
+}, {
+    "id": 4,
+    "name": "Crossbody bag - Handbag - Ethnic bag",
+    "type": "physical",
+    "sku": "",
+    "description": "One of the best things you can do to make your store successful is invest some time in writing great product descriptions.",
+    "price": "59.0000",
+    "is_visible": true,
+    "is_featured": true,
+    "date_created": "Fri, 21 Sep 2012 02:31:01 +0000",
+    "brand_id": 17,
+    "categories": [
+        3
+    ],
+    "date_modified": "Fri, 21 Sep 2012 02:46:41 +0000",
+    "condition": "New",
+    "is_condition_shown": false,
+    "order_quantity_minimum": 0,
+    "order_quantity_maximum": 0,
+    "custom_url": "/tomorrow-is-today-red-printed-scarf/",
+    "primary_image": {
+        "id": 247,
+        "zoom_url": "https://cdn.url.path/bcapp/et7xe3pz/products/32/images/247/in_123__14581.1393831046.1280.1280.jpg?c=1",
+        "thumbnail_url": "https://cdn.url.path/bcapp/et7xe3pz/products/32/images/247/in_123__14581.1393831046.220.290.jpg?c=1",
+        "standard_url": "https://cdn.url.path/bcapp/et7xe3pz/products/32/images/247/in_123__14581.1393831046.386.513.jpg?c=1",
+        "tiny_url": "https://cdn.url.path/bcapp/et7xe3pz/products/32/images/247/in_123__14581.1393831046.44.58.jpg?c=1"
+    },
+    "availability": "available"
+}, {
+    "id": 5,
+    "name": "Light brown leather tote - Messenger bag",
+    "type": "physical",
+    "sku": "",
+    "description": "Densely pack your descriptions with useful information and watch products fly off the shelf.",
+    "price": "89.0000",
+    "is_visible": true,
+    "is_featured": true,
+    "date_created": "Fri, 21 Sep 2012 02:31:01 +0000",
+    "brand_id": 17,
+    "categories": [
+        3
+    ],
+    "date_modified": "Mon, 24 Sep 2012 01:34:57 +0000",
+    "condition": "New",
+    "is_condition_shown": false,
+    "order_quantity_minimum": 0,
+    "order_quantity_maximum": 0,
+    "custom_url": "/tomorrow-is-today-red-printed-scarf/",
+    "primary_image": {
+        "id": 247,
+        "zoom_url": "https://cdn.url.path/bcapp/et7xe3pz/products/32/images/247/in_123__14581.1393831046.1280.1280.jpg?c=1",
+        "thumbnail_url": "https://cdn.url.path/bcapp/et7xe3pz/products/32/images/247/in_123__14581.1393831046.220.290.jpg?c=1",
+        "standard_url": "https://cdn.url.path/bcapp/et7xe3pz/products/32/images/247/in_123__14581.1393831046.386.513.jpg?c=1",
+        "tiny_url": "https://cdn.url.path/bcapp/et7xe3pz/products/32/images/247/in_123__14581.1393831046.44.58.jpg?c=1"
+    },
+    "availability": "available"
+}, {
+    "id": 6,
+    "name": "iPhone 6 case abalone shell iPhone 6 Plus Case iphone 5",
+    "type": "physical",
+    "sku": "",
+    "description": "One of the best things you can do to make your store successful is invest some time in writing great product descriptions.",
+    "price": "59.0000",
+    "is_visible": true,
+    "is_featured": true,
+    "date_created": "Fri, 21 Sep 2012 02:31:01 +0000",
+    "brand_id": 17,
+    "categories": [
+        3, 4
+    ],
+    "date_modified": "Fri, 21 Sep 2012 02:46:41 +0000",
+    "condition": "New",
+    "is_condition_shown": false,
+    "order_quantity_minimum": 0,
+    "order_quantity_maximum": 0,
+    "custom_url": "/tomorrow-is-today-red-printed-scarf/",
+    "primary_image": {
+        "id": 247,
+        "zoom_url": "https://cdn.url.path/bcapp/et7xe3pz/products/32/images/247/in_123__14581.1393831046.1280.1280.jpg?c=1",
+        "thumbnail_url": "https://cdn.url.path/bcapp/et7xe3pz/products/32/images/247/in_123__14581.1393831046.220.290.jpg?c=1",
+        "standard_url": "https://cdn.url.path/bcapp/et7xe3pz/products/32/images/247/in_123__14581.1393831046.386.513.jpg?c=1",
+        "tiny_url": "https://cdn.url.path/bcapp/et7xe3pz/products/32/images/247/in_123__14581.1393831046.44.58.jpg?c=1"
+    },
+    "availability": "available"
+}]

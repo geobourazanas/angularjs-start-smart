@@ -1,0 +1,49 @@
+[{
+    "id": 1,
+    "parent_id": 0,
+    "name": "Shop Mac",
+    "description": "",
+    "sort_order": 0,
+    "parent_category_list": [
+        1
+    ],
+    "image_file": "",
+    "is_visible": true,
+    "url": "/shop-mac/"
+}, {
+    "id": 2,
+    "parent_id": 0,
+    "name": "Windows",
+    "description": "",
+    "sort_order": 0,
+    "parent_category_list": [
+        2
+    ],
+    "image_file": "",
+    "is_visible": true,
+    "url": "/windows/"
+}, {
+    "id": 3,
+    "parent_id": 0,
+    "name": "Software",
+    "description": "",
+    "sort_order": 0,
+    "parent_category_list": [
+        3
+    ],
+    "image_file": "",
+    "is_visible": true,
+    "url": "/software/"
+}, {
+    "id": 4,
+    "parent_id": 0,
+    "name": "T-Shirts",
+    "description": "",
+    "sort_order": 0,
+    "parent_category_list": [
+        4
+    ],
+    "image_file": "",
+    "is_visible": true,
+    "url": "/t-shirts/"
+}]

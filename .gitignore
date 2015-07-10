@@ -1,0 +1,13 @@
+node_modules
+bower_components
+build
+report
+.DS_Store
+.tmp
+.sass-cache
+
+# workspace files
+*.sublime-workspace
+
+# SublimeText project files
+*.sublime-project
