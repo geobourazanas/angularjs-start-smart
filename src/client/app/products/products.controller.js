@@ -17,7 +17,7 @@
 
         vm.saveProduct = saveProduct;
         vm.editProduct = editProduct;
-        
+
         activate();
 
         /////////////////////////////////

@@ -12,7 +12,7 @@
         vm.isCurrent = isCurrent;
         vm.hideSidebar = false;
 
-        activate();        
+        activate();
 
         function activate() { getNavRoutes(); }
 

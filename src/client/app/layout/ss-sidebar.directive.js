@@ -20,7 +20,7 @@
             controller: 'SidebarController',
             controllerAs: 'vm',
             link: link,
-            restrict: 'EA',
+            restrict: 'EA'
         };
         return directive;
 

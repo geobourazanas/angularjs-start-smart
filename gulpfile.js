@@ -89,7 +89,7 @@ gulp.task('styles', ['clean-styles'], function() {
         .pipe(sass({
             includePaths: [
                 config.bower.directory + '/bootstrap-sass-official/assets/stylesheets',
-                 config.bower.directory + '/fontawesome/scss',
+                config.bower.directory + '/fontawesome/scss',
             ],
             outputStyle: 'expanded'
         }))
@@ -283,7 +283,7 @@ gulp.task('optimize', ['inject'], function() {
 gulp.task('jsons', function() {
     return gulp
         .src(config.jsons)
-        .pipe(gulp.dest(config.build))
+        .pipe(gulp.dest(config.build));
 });
 
 /**
