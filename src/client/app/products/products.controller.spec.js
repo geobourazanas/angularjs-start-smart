@@ -20,7 +20,10 @@ describe('ProductsController', function() {
     });
 
     beforeEach(function () {
-        controller = $controller('ProductsController', {});
+        controller = $controller('ProductsController', {
+            products: [],
+            categories: []
+        });
         di();
     });
 

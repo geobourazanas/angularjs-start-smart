@@ -125,7 +125,12 @@ module.exports = function() {
         ],
         specHelpers: [client + 'test/helpers/*.js'],
         specs: [clientApp + '**/*.spec.js'],
-        serverIntegrationSpecs: [client + '/test/e2e/**/*.spec.js'],
+
+        /**
+         * Protractor's settings
+         */
+        clientIntegrationSpecs: [client + '/test/e2e/**/*.spec.js'],
+        protractorConf: './protractor.conf.js',
 
         /**
          * Node settings
@@ -148,7 +153,6 @@ module.exports = function() {
         };
         return options;
     };
-    // config.karma.preprocessors['{src/app,src/app/**/!(*.spec).js}'] = ['coverage'];
 
     /**
      * karma settings
@@ -166,8 +170,8 @@ module.exports = function() {
                 config.specHelpers,
                 clientApp + '**/*.module.js',
                 clientApp + '**/*.js',
-                temp + config.templateCache.file,
-                config.serverIntegrationSpecs
+                temp + config.templateCache.file
+                // config.clientIntegrationSpecs
             ),
             exclude: [],
             coverage: {
