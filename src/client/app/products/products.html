@@ -34,11 +34,14 @@
                     </div>
                 </div>
                 <div class="col-lg-12 list-group">
-                    <li ng-repeat="product in vm.products track by product.id" href="#" class="list-group-item">
+                    <li ng-repeat="product in vm.products track by product.id" class="list-group-item">
                         <h2 ng-bind="product.name"></h2>
-                        <p id="price">Price: <span ng-bind="product.price|number:2|currency:'€' "></span></p>
-                        <p ng-bind="product.description"></p>
-                        <p>[<a href="#" ng-click="vm.editProduct(product.id)">edit</a>]</p>
+                        <p class="price">Price: <span ng-bind="product.price|number:2|currency:'€' "></span></p>
+                        <p class="description" ng-bind="product.description"></p>
+                        <p>[<a class="edit" href ng-click="vm.editProduct(product.id)">edit</a>] 
+                        <!-- TODO: This needs some improvement with a confirmation -->
+                        [<a class="remove" href ng-click="vm.products.splice($index, 1)">remove</a>]
+                        </p>
                     </li>
                 </div>
             </div>
