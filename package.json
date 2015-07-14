@@ -90,6 +90,7 @@
     "phantomjs": "1.9.12",
     "plato": "^1.2.0",
     "protractor": "^1.6.1",
+    "protractor-html-screenshot-reporter": "0.0.19",
     "q": "^1.0.1",
     "sinon": "^1.12.2",
     "sinon-chai": "^2.5.0",
