@@ -74,7 +74,6 @@ Now browse to the app at `http://localhost:9000`.
 
 ### Running in dev mode
  - Run the project with `gulp serve-dev`
-
  - opens it in a browser and updates the browser with any files changes.
 
 ### Building the project
@@ -172,10 +171,6 @@ The `blocks.router` module contains a routing helper module that assists in addi
     Performs code analysis using plato on all javascript files. Plato generates a report in the reports folder.
 
 ### Testing
-
-- `gulp serve-specs`
-
-    Serves and browses to the spec runner html page and runs the unit tests in it. Injects any changes on the fly and re runs the tests. Quick and easy view of tests as an alternative to terminal via `gulp test`.
 
 - `gulp test`
 
