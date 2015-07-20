@@ -1,6 +1,6 @@
 node_modules
 bower_components
-build
+# build
 report
 .DS_Store
 .tmp
